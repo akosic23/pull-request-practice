@@ -1,1 +1,3 @@
-"socrates, joan of ark, abraham lincoln"
+"socrates,
+joan of ark,
+abraham lincoln"
